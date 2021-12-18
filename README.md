@@ -1,11 +1,11 @@
 ﻿# Analytic Portfolio
  
-I create these 2 reports as the Capstone Projects for the program Business Analytics and Insights on December 04th, 2021. 
-I applied varied analytical techniques including data cleaning (imputation, drop, concatnate...), data exploration and engineering (Descriptive Statistic, Log transformation, Cap & Floor, Standard Scaler...), cluster analysis, PCA, Predictive Modelling,... in these projects.
+I created these 2 reports as the Capstone Projects for the program Business Analytics and Insights on December 04th, 2021. 
+I applied varied analytical techniques including data cleaning (imputation, drop, concatenate...), data exploration and engineering (Descriptive Statistic, Log transformation, Cap & Floor, Standard Scaler...), cluster analysis, PCA, Predictive Modelling,... in these projects.
 
-1. Marketing Campaign Success Rate Improvement:
+1. Marketing Campaign Success Rate-Improvement:
 This report aims to analyze the data set called “Marketing Data” (Daoud, 2020) using different types of analysis techniques and models that have been acquired during the program. As a result, I try to find the best fit model to predict the success level of the next marketing campaign based on the historical data and give insightful recommendations from the findings. All the analyses are completed using MySQL and Python. This report is for academic purposes only.
-Business background: the company ABC is trying to launch a new marketing campaign that supposes to happen in the next coming holiday season. The marketing director is asking me as a market insights analyst to predict the success rate of the next campaign and recommend for improvements in the acceptance rate of the next campaign based on the 2-year historical data 
+Business background: company ABC is trying to launch a new marketing campaign that supposes to happen in the next coming holiday season. The marketing director is asking me as a market insights analyst to predict the success rate of the next campaign and recommend improvements in the acceptance rate of the next campaign based on the 2-year historical data 
 The Business Objective is to increase sales by direct improvement of the marketing campaign’s acceptance. Besides prediction, this report tries to address what factors are currently impacting the success rate of a marketing campaign, who are likely to accept the new campaign and which products they would tend to buy… and tries to recommend what needs focusing on in the next campaign.
 
 2. The US Airline’s passengers satisfaction Improvement
